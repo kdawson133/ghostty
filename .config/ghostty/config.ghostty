@@ -17,4 +17,4 @@ term = xterm-256color
 keybind = f11=toggle_fullscreen
 
 # Themes
-theme = tokyonight
+theme = TokyoNight
